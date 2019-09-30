@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hellow world</string>
+    <string name="entrez_votre_nom">Entrez votre nom :</string>
+    <string name="send">send</string>
+</resources>
